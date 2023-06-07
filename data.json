@@ -1,65 +1,65 @@
 {
-    "nombre": "Alejandro Fernández de Caleya Miquel",
-    "titulo": "Desarrollador Full Stack",
-    "resumen": "Apasionado desarrollador Full Stack con experiencia en el desarrollo de aplicaciones web y habilidades en tecnologías front-end y back-end.",
-    "contacto": {
-        "email": "alejandrofcaleya@gmail.com",
-        "telefono": "+34 688392645",
-        "direccion": "C/ de Roger de Flor, 299, 08025 Barcelona"
-    },
-    "habilidades": [
-        "HTML5",
-        "CSS3",
-        "JavaScript",
-        "React",
-        "Node.js",
-        "MongoDB",
-        "SQL",
-        "Git"
-    ],
-    "softskills": [
-        "Comunicación efectiva",
-        "Trabajo en equipo",
-        "Resolución de problemas",
-        "Flexibilidad y adaptabilidad",
-        "Pensamiento crítico"
-    ],
-    "experiencia": [
-        {
-        "puesto": "Desarrollador Full Stack",
-        "empresa": "Empresa Ejemplo",
-        "periodo": "Enero 2018 - Presente",
-        "descripcion": "Desarrollo de aplicaciones web utilizando tecnologías front-end y back-end, colaboración en equipos ágiles y participación en el ciclo completo de desarrollo de software."
-        },
-        {
-        "puesto": "Desarrollador Front-End",
-        "empresa": "Otra Empresa",
-        "periodo": "Enero 2016 - Diciembre 2017",
-        "descripcion": "Creación y mantenimiento de interfaces de usuario utilizando HTML, CSS y JavaScript, implementación de diseños responsivos y optimización de rendimiento."
-        }
-    ],
-    "educacion": [
-        {
-        "titulo": "Ingeniería en Informática",
-        "institucion": "Universidad Ejemplo",
-        "periodo": "2012 - 2016"
-        },
-        {
-        "titulo": "Curso de Desarrollo Web",
-        "institucion": "Plataforma de Aprendizaje",
-        "periodo": "2017"
-        }
-    ],
-    "proyectos": [
-        {
-        "nombre": "Proyecto 1",
-        "descripcion": "Desarrollo de una aplicación web de comercio electrónico utilizando React, Node.js y MongoDB.",
-        "enlace": "https://www.example.com/proyecto1"
-        },
-        {
-        "nombre": "Proyecto 2",
-        "descripcion": "Creación de una aplicación de gestión de tareas utilizando HTML, CSS y JavaScript.",
-        "enlace": "https://www.example.com/proyecto2"
-        }
-    ]
+	"nombre": "Alejandro Fernández de Caleya Miquel",
+	"titulo": "Desarrollador Full Stack",
+	"resumen": "Apasionado desarrollador Full Stack con experiencia en el desarrollo de aplicaciones web y habilidades en tecnologías front-end y back-end.",
+	"contacto": {
+		"email": "alejandrofcaleya@gmail.com",
+		"telefono": "+34 688392645",
+		"direccion": "C/ de Roger de Flor, 299, 08025 Barcelona"
+	},
+	"habilidades": [
+		"HTML5",
+		"CSS3",
+		"JavaScript",
+		"React",
+		"Node.js",
+		"MongoDB",
+		"SQL",
+		"Git"
+	],
+	"softskills": [
+		"Comunicación efectiva",
+		"Trabajo en equipo",
+		"Resolución de problemas",
+		"Flexibilidad y adaptabilidad",
+		"Pensamiento crítico"
+	],
+	"experiencia": [
+		{
+			"puesto": "Desarrollador Full Stack",
+			"empresa": "Empresa Ejemplo",
+			"periodo": "Enero 2018 - Presente",
+			"descripcion": "Desarrollo de aplicaciones web utilizando tecnologías front-end y back-end, colaboración en equipos ágiles y participación en el ciclo completo de desarrollo de software."
+		},
+		{
+			"puesto": "Desarrollador Front-End",
+			"empresa": "Otra Empresa",
+			"periodo": "Enero 2016 - Diciembre 2017",
+			"descripcion": "Creación y mantenimiento de interfaces de usuario utilizando HTML, CSS y JavaScript, implementación de diseños responsivos y optimización de rendimiento."
+		}
+	],
+	"educacion": [
+		{
+			"titulo": "Ingeniería en Informática",
+			"institucion": "Universidad Ejemplo",
+			"periodo": "2012 - 2016"
+		},
+		{
+			"titulo": "Curso de Desarrollo Web",
+			"institucion": "Plataforma de Aprendizaje",
+			"periodo": "2017"
+		}
+	],
+	"proyectos": [
+		{
+			"nombre": "Proyecto 1",
+			"descripcion": "Desarrollo de una aplicación web de comercio electrónico utilizando React, Node.js y MongoDB.",
+			"enlace": "https://www.example.com/proyecto1"
+		},
+		{
+			"nombre": "Proyecto 2",
+			"descripcion": "Creación de una aplicación de gestión de tareas utilizando HTML, CSS y JavaScript.",
+			"enlace": "https://www.example.com/proyecto2"
+		}
+	]
 }
