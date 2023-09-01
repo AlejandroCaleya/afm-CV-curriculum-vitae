@@ -1,0 +1,51 @@
+{
+	"contact": {
+		"title": "Contacto",
+		"content": {
+			"email": "alejandrofcaleya@gmail.com",
+			"telefono": "+34 688392645",
+			"direccion": "C/ de Roger de Flor, 299, 08025 Barcelona"
+		}
+	},
+	"about": {
+		"title": "Sobre Mí",
+		"content": "Apasionado desarrollador Full Stack con experiencia en el desarrollo de aplicaciones web y habilidades en tecnologías front-end y back-end."
+	},
+	"education": {
+		"title": "Educación",
+		"content": [
+			{
+				"institucion": "Universidad UOC",
+				"titulo": "Ingeniería en Sistemas",
+				"fecha": "2008 - 2012"
+			},
+			{
+				"institucion": "Instituto Tecnológico y de Estudios Superiores",
+				"titulo": "Bioinformatics",
+				"fecha": "2015 - 2018"
+			},
+			{
+				"institucion": "Centro Ing.",
+				"titulo": "Big data & IA",
+				"fecha": "2019 - 2021"
+			}
+		]
+	},
+	"experience": {
+		"title": "Experiencia",
+		"content": [
+			{
+				"puesto": "Desarrollador Full Stack",
+				"empresa": "Empresa Ejemplo",
+				"periodo": "Enero 2018 - Presente",
+				"descripcion": "Desarrollo de aplicaciones web utilizando tecnologías front-end y back-end, colaboración en equipos ágiles y participación en el ciclo completo de desarrollo de software."
+			},
+			{
+				"puesto": "Desarrollador Front-End",
+				"empresa": "Otra Empresa",
+				"periodo": "Enero 2016 - Diciembre 2017",
+				"descripcion": "Creación y mantenimiento de interfaces de usuario utilizando HTML, CSS y JavaScript, implementación de diseños responsivos y optimización de rendimiento."
+			}
+		]
+	}
+}

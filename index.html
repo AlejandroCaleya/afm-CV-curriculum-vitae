@@ -2,44 +2,46 @@
 <html lang="es">
 	<head>
 		<meta charset="UTF-8" />
-		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-		<meta name="author" content="Alejandro Fernández de Caleya Miquel" />
-		<meta name="description" content="CV, Curriculum Vitae, Alejandro Fernández de Caleya" />
-		<link rel="stylesheet" href="/style.css" />
-		<!-- /* BOOTSTRAP 4.6 */ -->
-		<link
-			rel="stylesheet"
-			href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css"
-			integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N"
-			crossorigin="anonymous"
-		/>
-		<title>CV - Alejandro Fernández de Caleya</title>
+		<title>Portfolio de Alejandro</title>
+		<link rel="stylesheet" href="style.css" />
+		<script defer src="scripts.js"></script>
 	</head>
-	<body>
-		<div class="container-fluid">
-			<header></header>
+	<body class="night">
+		<header>
 			<nav>
-				<a href="">Home</a>
-				<a href="">Objetivos</a>
-				<a href="">Hard Skills</a>
-				<a href="">Soft SKills</a>
-				<a href="">Experiencia</a>
-				<a href="">Contacto</a>
+				<section id="name">
+					<h1 class="name">Alejandro Caleya</h1>
+				</section>
+				<div class="subnav">
+					<a href="#contact">Contacto</a>
+					<a href="#about">Sobre mí</a>
+					<a href="#education">Educación</a>
+					<a href="#experience">Experiencia</a>
+					<button class="mode-switch">Modo Oscuro</button>
+				</div>
 			</nav>
-		</div>
-
-		<!-- /* jQuery */ -->
-		<script
-			src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"
-			integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
-			crossorigin="anonymous"
-		></script>
-		<!-- /* BOOTSTRAP 4.6 */ -->
-		<script
-			src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"
-			integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct"
-			crossorigin="anonymous"
-		></script>
+		</header>
+		<main>
+			<section id="contact" hidden>
+				<h2 class="section-title"></h2>
+				<p>
+					<strong>Email:</strong> <span class="contact-email"></span><br />
+					<strong>Teléfono:</strong> <span class="contact-phone"></span><br />
+					<strong>Dirección:</strong> <span class="contact-address"></span>
+				</p>
+			</section>
+			<section id="about" hidden>
+				<h2 class="section-title"></h2>
+				<p class="about-content"></p>
+			</section>
+			<section id="education" hidden>
+				<h2 class="section-title"></h2>
+				<ul class="education-list"></ul>
+			</section>
+			<section id="experience" hidden>
+				<h2 class="section-title"></h2>
+			</section>
+		</main>
 	</body>
 </html>
